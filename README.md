@@ -1,5 +1,5 @@
 ## :dart: Goal of project
-Automation of Web3 Decentralized finance (DeFi) Blockchain products integrating with cryptocurrency wallet Metamask 
+Automation of Web3 Decentralized finance (DeFi) Blockchain products integrating with cryptocurrency wallet Metamask using askui
 
 ## :thinking: :bulb: Ideation and approach:
 - For any Web3 products to use as a pre-requisite it requires Web3 wallet to connect with user account and then only user can start using the product.
