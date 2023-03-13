@@ -76,5 +76,5 @@ Test script created during Hackathon can act as baseline as it touch base all pr
 
 
 ## :computer: Demo : 
-[Demo] (https://drive.google.com/file/d/1ljUfAfza5nwt35-0aw2iqa7C2aYKnoTY/view?usp=share_link)
+[Demo](https://drive.google.com/file/d/1ljUfAfza5nwt35-0aw2iqa7C2aYKnoTY/view?usp=share_link)
 Let's switch to VS Code & Application Under Test
